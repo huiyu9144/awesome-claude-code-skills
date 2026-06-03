@@ -1,6 +1,7 @@
 # Awesome Claude Code Skills
 
 > Claude Code 最实用的 Skills / Agents / Plugins 精选合集，按场景分类，带安装命令，复制即用。
+  - [huiyu-safe-ai](https://github.com/huiyu9144/huiyu-safe-ai) - 轻量级AI安全卫士，用于安装/下载命令。拦截68+已知恶意软件包，验证身份，代码嗅探，零网络调用，<1秒完成。基于真实供应链攻击经验构建。
 >
 > 50+ 精选 | 按场景分类 | 带推荐等级 | 持续更新
 
@@ -255,4 +256,3 @@ npx skills add vercel-labs/skills@find-skills
 
 [MIT](LICENSE)
 
-  - [huiyu-safe-ai](https://github.com/huiyu9144/huiyu-safe-ai) - Lightweight AI security guard for install/download commands. Blocks 68+ malicious packages, verifies identity, scans code in <1s with zero overhead. Built from a real supply chain attack.
