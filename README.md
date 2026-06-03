@@ -1,7 +1,6 @@
 # Awesome Claude Code Skills
 
 > Claude Code 最实用的 Skills / Agents / Plugins 精选合集，按场景分类，带安装命令，复制即用。
-  - [huiyu-safe-ai](https://github.com/huiyu9144/huiyu-safe-ai) - 轻量级AI安全卫士，用于安装/下载命令。拦截68+已知恶意软件包，验证身份，代码嗅探，零网络调用，<1秒完成。基于真实供应链攻击经验构建。
 >
 > 50+ 精选 | 按场景分类 | 带推荐等级 | 持续更新
 
@@ -178,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **huiyu-safe-ai** | 轻量级AI安全卫士，拦截68+已知恶意软件包，验证身份，代码嗅探，零网络调用 | [GitHub](https://github.com/huiyu9144/huiyu-safe-ai) |
 
 ---
 
